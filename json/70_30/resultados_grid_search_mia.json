@@ -1,0 +1,51 @@
+{
+    "Melhor R2": {
+        "score": 0.7357936574525503,
+        "hiperparametros": {
+            "criterion": "REGULARITY",
+            "p_average": 2,
+            "n_jobs": -1,
+            "test_size": 0.01,
+            "k_best": 4,
+            "polynomial_type": "PolynomialType.QUADRATIC"
+        }
+    },
+    "Menor MSE": {
+        "score": 39922.94925685635,
+        "hiperparametros": {
+            "criterion": "REGULARITY",
+            "p_average": 2,
+            "n_jobs": -1,
+            "test_size": 0.01,
+            "k_best": 4,
+            "polynomial_type": "PolynomialType.QUADRATIC"
+        }
+    },
+    "Menor RMSE": {
+        "score": 199.80728028992425,
+        "hiperparametros": {
+            "criterion": "REGULARITY",
+            "p_average": 2,
+            "n_jobs": -1,
+            "test_size": 0.01,
+            "k_best": 4,
+            "polynomial_type": "PolynomialType.QUADRATIC"
+        }
+    },
+    "Menor MAPE": {
+        "score": 6.962542309826427,
+        "hiperparametros": {
+            "criterion": "REGULARITY",
+            "p_average": 2,
+            "n_jobs": -1,
+            "test_size": 0.01,
+            "k_best": 4,
+            "polynomial_type": "PolynomialType.QUADRATIC"
+        }
+    },
+    "Estratificacao": {
+        "Razao": "0.3",
+        "Seed": 42
+    },
+    "Tempo de Execucao (s)": 1.710038185119629
+}
